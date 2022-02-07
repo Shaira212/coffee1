@@ -1,0 +1,16 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.box {
+  float: left;
+  padding: 3px;
+  width: 25%;
+}
+.box img {
+  height: 300px;
+}
+.ifream {
+  float: right;
+}
